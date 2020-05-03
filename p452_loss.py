@@ -44,7 +44,6 @@ from p452_modules.ducting_layer_loss import duct_loss as duct_layer
 from p452_modules.inv_cumulative import inv_cumulative as inv_cumul
 
 
-
 def p452_loss(f, p, d, h, zone, htg, hrg, phi_t, phi_r, Gt, Gr, pol, dct, dcr, DN, N0, pressure, temp,
               ha_t=0, dk_t=0, ha_r=0, dk_r=0):
 
