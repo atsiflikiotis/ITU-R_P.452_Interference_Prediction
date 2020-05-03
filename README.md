@@ -4,6 +4,7 @@ A Python implementation of Recommendation ITU-R P.452-16
 
 
 # Usage:
+
 ```python
 from p452_loss import p452_loss as p452
 Lb = p452_loss(f, p, d, h, zone, htg, hrg, phi_t, phi_r, Gt, Gr, pol, dct, dcr, DN, N0, pressure, temp)
@@ -12,6 +13,8 @@ Lb = p452_loss(f, p, d, h, zone, htg, hrg, phi_t, phi_r, Gt, Gr, pol, dct, dcr, 
                ha_t=hat, ha_r=har, dk_r=dkr, dk_t=dkt)
 
 ```
+(Read p452_loss.py comments for more info about input parameters, as they described in P.452 recommendation.)
+
 
 'p676-12_table_a.csv' and 'p676-12_table_b.csv' should be also downloaded to source directory, as they are needed to compute specific attenuation due to dry air and water vapour, according to ITU-R P.676-12. 
 
