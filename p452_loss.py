@@ -29,7 +29,7 @@
 # p452_loss(f, p, d, h, zone, htg, hrg, phi_t, phi_r, Gt, Gr, pol, dct, dcr, DN, N0, pressure, temp)
 #
 # p452_loss(f, p, d, h, zone, htg, hrg, phi_t, phi_r, Gt, Gr, pol, dct, dcr, DN, N0, pressure, temp,
-#            ha_t, ha_r, dk_r, dk_t)
+#            ha_t=hat, ha_r=har, dk_r=dkr, dk_t=dkt)
 #
 # Output:
 # Lb:       Basic  transmission loss according to P.452-16
