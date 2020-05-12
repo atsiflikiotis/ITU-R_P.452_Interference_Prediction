@@ -23,7 +23,6 @@ numpy package should be installed (pip install numpy)
 
 
 
-
 # More info:
 ITU-R P.452: Prediction procedure for the evaluation of interference between stations on the surface of the Earth at frequencies above about 0.1 GHz
 
