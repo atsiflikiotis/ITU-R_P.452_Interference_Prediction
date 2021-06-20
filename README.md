@@ -1,3 +1,10 @@
+DEPRACATED
+
+You can use the the GUI program published here:
+
+https://github.com/atsiflikiotis/Radar-Interference-Prediction-ITU-p452
+
+
 # ITU-R_P.452_Interference_Prediction
 A Python implementation of Recommendation ITU-R P.452-16
 
