@@ -1,4 +1,4 @@
-DEPRACATED
+# DEPRACATED
 
 You can use the the GUI program published here:
 
