@@ -1,6 +1,6 @@
 # DEPRACATED
 
-You can use the the GUI program published here:
+You can use the GUI program published here:
 
 https://github.com/atsiflikiotis/Radar-Interference-Prediction-ITU-p452
 
